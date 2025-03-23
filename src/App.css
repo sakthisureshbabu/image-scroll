@@ -1,5 +1,16 @@
 .App {
+  padding-top: 10rem;
+  display: flex;
   text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 30%;
+  flex-flow: column nowrap;
+}
+
+.App .btn {
+  height: 2rem;
+  margin-top: 1rem;
 }
 
 .App-logo {
