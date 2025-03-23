@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//sakthisureshbabu.github.io/image_scroll/static/css/main.f855e6bc.css",
+    "main.js": "/https//sakthisureshbabu.github.io/image_scroll/static/js/main.58559f19.js",
+    "index.html": "/https//sakthisureshbabu.github.io/image_scroll/index.html",
+    "main.f855e6bc.css.map": "/https//sakthisureshbabu.github.io/image_scroll/static/css/main.f855e6bc.css.map",
+    "main.58559f19.js.map": "/https//sakthisureshbabu.github.io/image_scroll/static/js/main.58559f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.58559f19.js"
+  ]
+}
